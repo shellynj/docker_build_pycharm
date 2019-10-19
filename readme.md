@@ -16,5 +16,14 @@ Label your commits (Fix, Feature, Task) i.e. "Task: Created Dockerfile".
 ### Commit 1 Task: CMD Comment added to Dockerfile
 ![](images/Commit_1.png)    
 
-### Created Branch  Task: Create branch 
+### Created Branch  Task: Create branch comment_for_run
 ![](images/Branch_for_Commit_2_RUN_Comment.png)  
+
+### Commit 2 Task: RUN Comment added to Dockerfile
+![](images/Commit_1.png)  
+
+### Commit 3 Task: .gitignore Comment added to .gitignore file
+![](images/commit_for_gitignore_file_2.png)     
+
+### Screenshot of Deploy Log  
+![](images/deploy_log_success.png)    
