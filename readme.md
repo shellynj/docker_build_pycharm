@@ -13,5 +13,8 @@ Label your commits (Fix, Feature, Task) i.e. "Task: Created Dockerfile".
 ### Screenshot of project running in Pycharm
 ![](images/Successful_Run_1.png)  
 
-### Commit Task: CMD Comment added to Dockerfile
-![](images/Commit_1.png)  
+### Commit 1 Task: CMD Comment added to Dockerfile
+![](images/Commit_1.png)    
+
+### Created Branch  Task: Create branch 
+![](images/Branch_for_Commit_2_RUN_Comment.png)  
